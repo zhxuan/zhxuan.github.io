@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Centos使用LVM扩展根目录容量
-category: Linux
+category: 技术
 tags: [Linux]
 keywords: Linux,LVM
 description: 
