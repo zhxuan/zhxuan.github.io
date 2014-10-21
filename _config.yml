@@ -18,7 +18,7 @@ rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: http://xiaolaipi-xiaolaipi.stor.sinaapp.com/avatar/gavatar.png
-favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
+favicon: http://xiaolaipi-xiaolaipi.stor.sinaapp.com/avatar/favicon.ico
 
 # google analytics 设置
 ga:
