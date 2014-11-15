@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spark使用总结(更新中)
-category: 技术
+category: Spark
 tags: [Spark]
 keywords: Spark
 description: 
